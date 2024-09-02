@@ -53,3 +53,6 @@ TIME	TEXT
 RESULT	VARCHAR(100)
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
