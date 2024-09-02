@@ -51,8 +51,7 @@ TEAM_A	VARCHAR(100)
 TEAM_B	VARCHAR(100)
 TIME	TEXT
 RESULT	VARCHAR(100)
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
-License
+
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
